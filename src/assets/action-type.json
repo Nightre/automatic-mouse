@@ -1,0 +1,18 @@
+{
+    "move_mouse": {
+        "action_type": "move_mouse",
+        "arg": {
+            "x": "0",
+            "y": "0"
+        }
+    },
+    "click_mouse": {
+        "action_type": "click_mouse"
+    },
+    "key_sequence": {
+        "action_type": "key_sequence",
+        "arg":{
+            "value":"你好世界！"
+        }
+    }
+}
